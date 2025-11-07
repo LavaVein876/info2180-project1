@@ -16,6 +16,8 @@ header .container{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: #fff;
+    font-size: 18px;
     padding: 10px 20px;
 }
 
@@ -29,4 +31,9 @@ header nav ul{
 
 header nav a{
     text-decoration: none;
+    color: #6b7280;
+}
+
+header nav a:hover{
+    color: #5A67D8;
 }
