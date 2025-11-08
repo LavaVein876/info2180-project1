@@ -57,3 +57,31 @@ header nav a:hover{
 .overview-hero-text{
     padding: 20px;
 }
+
+.learn-about h2{
+    font-size: 24px;
+    color: #48BB78;
+}
+
+.learn-about .cards{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+}
+
+.learn-about .card{
+    border: 1px #E2E8F0;
+    border-radius: 5px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+    padding: 16px;
+}
+
+.learn-about .card img{
+    width: 274px;
+    height: 200px;
+}
+
+.learn-about .card h3{
+    color: #48BB78;
+    font-size: 21px;
+}
