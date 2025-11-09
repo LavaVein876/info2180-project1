@@ -112,3 +112,29 @@ header nav a:hover{
     text-decoration: none;
     
 }
+
+.stories article{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.stories h2{
+    color: #5A67D8;
+    font-size: 18px;
+}
+
+.stories article img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+
+.stories .article-body h3{
+    font-size: 18px;
+}
+
+.stories .article-body p a{
+    color: #5A67D8;
+    text-decoration: none;
+}
