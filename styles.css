@@ -173,3 +173,14 @@ header nav a:hover{
     padding: 10px 20px;
 
 }
+
+footer{
+    background-color: #4A5568;
+    color: #fff;
+    padding: 20px 0;
+    width: 100%;
+}
+
+footer p{
+    margin: 0;
+}
