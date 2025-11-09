@@ -138,3 +138,38 @@ header nav a:hover{
     color: #5A67D8;
     text-decoration: none;
 }
+
+.newsletter{
+    background-color: #48BB78;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.newsletter .container{
+    padding: 30px;
+}
+
+.newsletter form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 5px;
+}
+
+.newsletter input#email{
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.newsletter .btn{
+    background-color: #5A67D8;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+
+}
