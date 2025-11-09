@@ -122,6 +122,10 @@ header nav a:hover{
     
 }
 
+.stories{
+    padding: 30px;
+}
+
 .stories article{
     display: flex;
     align-items: center;
